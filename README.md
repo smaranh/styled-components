@@ -1,5 +1,6 @@
 # Social Media using Styled-Components
 
+[DEMO](https://smaranh.github.io/styled-components/)
 Social Media called Huddle using Styled components
 
 ## Description
@@ -12,10 +13,14 @@ Project from my styled components crash course
 * Run `npm install`
 * Run `npm start`. This will run the client on port 3000.
 
-## Authors
+### Additional Information
 
-Contributors names
+If you intend to deploy the app on Github Pages, make the changes in package.json and then run 
+```
+npm run deploy
+```
 
+## Author
 Smaran Harihar
 
 ## Acknowledgments
